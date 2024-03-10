@@ -28,14 +28,9 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://drive.google.com/file/d/1o7z2juNlNiKWig9Yu_m-YQNm02rXIMcB/view?usp=sharing' title='Video Demo' width='' alt='Video Demo' />
+https://rb.gy/y3k2n2
 
-GIF created with **your chosen GIF tool**
-
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
+GIF created with  ScreenToGif
 
 ## Notes
 
