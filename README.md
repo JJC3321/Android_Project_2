@@ -28,7 +28,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-https://rb.gy/y3k2n2
+![Project2](https://github.com/JJC3321/Android_Project_2/assets/122761865/5b9d249a-69d9-4061-84a8-c437c4707485)
 
 GIF created with  ScreenToGif
 
